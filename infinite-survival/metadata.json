@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Survival",
+  "description": "A dark, text-heavy roguelike survival RPG inspired by the 'Infinite' genre. Create a character, explore fog-covered maps, scavenge for resources, and survive the cycle.",
+  "requestFramePermissions": []
+}
